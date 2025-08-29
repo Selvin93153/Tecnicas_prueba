@@ -10,27 +10,6 @@ Este proyecto implementa dos funciones en **Node.js con TypeScript** y pruebas u
 4. **Documentación**  
 
 
-## 📂 Estructura del proyecto
-
-
-
-qa-proyecto/
-├── src/
-│   ├── domain/
-│   │   ├── mayor-edad.ts
-│   │   ├── prestamo.ts
-│   │   └── types.ts
-│   └── tests/
-│       ├── mayor-edad.spec.ts
-│       └── prestamo.spec.ts
-├── docs/
-│   ├── equivalencias-mayor-edad.md
-│   └── decision-table-prestamo.md
-├── jest.config.ts
-├── tsconfig.json
-├── package.json
-└── README.md
-
 
 ## ⚙️ Instalación y ejecución
 
